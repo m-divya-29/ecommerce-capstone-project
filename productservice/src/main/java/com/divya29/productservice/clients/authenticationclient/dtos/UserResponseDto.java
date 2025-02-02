@@ -2,8 +2,6 @@ package com.divya29.productservice.clients.authenticationclient.dtos;
 
 import lombok.Getter;
 import lombok.Setter;
-//import org.example.userservice.models.Role;
-//import org.example.userservice.models.User;
 
 import java.util.HashSet;
 import java.util.Set;

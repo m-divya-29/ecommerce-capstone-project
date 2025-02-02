@@ -1,4 +1,4 @@
-package org.example.productservice.configs;
+package com.divya29.productservice.configs;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,4 +1,4 @@
-package org.example.productservice.exceptions;
+package com.divya29.productservice.exceptions;
 
 import lombok.Getter;
 import lombok.Setter;
