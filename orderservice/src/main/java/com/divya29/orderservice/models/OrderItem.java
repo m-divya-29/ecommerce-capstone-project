@@ -1,4 +1,4 @@
-package com.divya29.orderservice;
+package com.divya29.orderservice.models;
 
 import com.fasterxml.jackson.annotation.JsonBackReference;
 
